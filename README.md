@@ -1,1 +1,1 @@
-本人的论文阅读笔记，可能会包含代码实现
+一些论文的实现代码，笔记在[个人博客](http://blog.j-talk.xyz/categories/paper)
